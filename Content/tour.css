@@ -1,0 +1,49 @@
+#video{
+    width: 100%;
+    height: 50vh;
+}
+
+.Rectangle14{
+  margin-bottom: 5%;
+    width: 100%;
+    height: 100%;
+    background-color: #ffff;
+    border-radius: 2px;
+    border-top: 2px solid #b2312813;
+}
+
+.TourVirtualVirtual{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: #006699;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+.Rectangle13{
+  margin-top: 5%;
+  width: 100%;
+  height: 100%;
+  background-color: #ffff;
+  border-radius: 2px;
+  border-top: 2px solid #b2312813;
+}
+
+.TourVirtualVirtual1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: #006699;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+#video_tour{
+    width: 100%;
+}
+
